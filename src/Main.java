@@ -7,7 +7,7 @@ import java.awt.Color;
 
 public class Main {
 	static JLabel lblTime;
-	private static JLabel lblFlags;  
+	private static JLabel lblFlags;   
 	public static JFrame masterFrame;
 
 	public static void main(String[] args) throws IOException {

@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 public class MyMouseAdapter extends MouseAdapter {
 	public static int redflags = 14;
 	public static int grayTiles = 0;
-	public static int redTiles = 0;   
+	public static int redTiles = 0;    
 	
 	public void mousePressed(MouseEvent e) {
 		Component c = e.getComponent();
