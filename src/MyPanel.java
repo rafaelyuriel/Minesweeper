@@ -6,7 +6,7 @@ import java.util.Random;
 
 import javax.swing.JPanel;
 
-public class MyPanel extends JPanel {  
+public class MyPanel extends JPanel {   
 	
 	private static final long serialVersionUID = 3426940946811133635L;
 	private static final int GRID_X = 25;
